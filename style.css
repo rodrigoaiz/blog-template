@@ -1,0 +1,16 @@
+/*
+Theme Name: RodrigoAizpuru
+Text Domain: rodrigoaizpuru.com
+Version: 1.1
+tags: responsive, left-sidebar, bootstrap
+Description: This theme is for the portfolio
+Author: Rodrigo Aizpuru
+Author URL: https://rodrigoaizpuru.com
+*/
+
+html{
+    background-color: red !important;
+}
+p{
+    background-color: red;
+}
