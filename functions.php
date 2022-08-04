@@ -1,4 +1,6 @@
 <?php
+add_theme_support('title_tag');
+
 function rodrigoaiz_register_styles(){
     $version = wp_get_theme()->get( 'Version' );
     wp_enqueue_style('rodrigoaiz-style', get_template_directory_uri() . "/style.css", array('rodrigoaiz-bootstrap'), $version, 'all');
