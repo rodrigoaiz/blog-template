@@ -1,0 +1,24 @@
+{
+  "name": "blog-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass",
+    "sass:watch": "sass --watch assets/css/main.scss:style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoaiz/blog-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoaiz/blog-template/issues"
+  },
+  "homepage": "https://github.com/rodrigoaiz/blog-template#readme",
+  "dependencies": {
+    "sass": "^1.54.3"
+  }
+}
