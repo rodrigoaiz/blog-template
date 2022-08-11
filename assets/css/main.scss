@@ -130,8 +130,8 @@ MENU HEADER
 }
 
     max-height: 5rem;
-    background-color:$color__base--purpuraA;
-    backdrop-filter: blur(2em);
+    background-color:rgba(255, 0, 119, 0.164);
+    backdrop-filter: blur(0.5rem);
     //padding:0 0.5rem;
     position: fixed;
     z-index: 111;
